@@ -19,7 +19,7 @@ body {
     background-color: #141414;
     color: white;
     line-height: 100px;
-    font-size: 15px;
+    font-size: 18px;
     z-index: 1000;
 }
 
@@ -43,7 +43,7 @@ body {
 	border-radius: 10px 10px 0 0;
 	color: #ccc;
     width: 670px;
-    padding: 40px;
+    padding: 30px;
     height: 350px;
     margin: 0 auto;
     background: #383737;
@@ -64,7 +64,7 @@ body {
     letter-spacing: 0.3em;
     font-weight: 700;
     color: #fafafa;
-    font-size: 11px;
+    font-size: 16px;
     text-transform: uppercase;
 }
 
@@ -80,11 +80,10 @@ p {
 		#E9C372 20px,
 		#E9C372 40px
 	);
-    background-color: #EAC67A;
     height: auto;
     margin-top: 50px;
     padding-top: 50px;
-    font-size: 19px;
+    font-size: 16px;
     line-height: 35px;
 }
 
@@ -97,7 +96,7 @@ p {
     letter-spacing: 0.3em;
     font-weight: 700;
     padding-bottom: 25px;
-    font-size: 11px;
+    font-size: 20px;
     text-transform: uppercase;
 }
 
@@ -108,7 +107,7 @@ p {
     padding-bottom: 20px;
     margin-bottom: 40px;
     border-bottom: 1px solid black;
-    font-size: 11px;
+    font-size: 16px;
     text-transform: uppercase;
 }
 
