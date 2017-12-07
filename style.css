@@ -1,7 +1,7 @@
 body {
 	margin: 0;
     font-size: 14px;
-    font-family: 'Karla', sans-serif;
+    font-family: 'Play', sans-serif;
     line-height: 20px;
     color: #333333;
     background-color: #984B43;
@@ -12,7 +12,7 @@ body {
     position: fixed;
     top: 0;
     left: 0;
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Play', sans-serif;
     letter-spacing: 0.2em;
     text-transform: uppercase;
     text-align: center;
@@ -32,6 +32,7 @@ body {
 }
 
 #console {
+	font-family: 'Share Tech Mono', monospace;
 	color: #ccc;
     width: 670px;
     padding: 40px;
@@ -52,7 +53,6 @@ body {
 #about p {
     text-align: center;
     padding-top: 100px;
-    font-family: 'Open Sans', sans-serif;
     letter-spacing: 0.3em;
     font-weight: 700;
     color: #fafafa;
@@ -79,7 +79,6 @@ p {
 
 .tagline {
     text-align: center;
-    font-family: 'Open Sans', sans-serif;
     letter-spacing: 0.3em;
     font-weight: 700;
     padding-bottom: 25px;
@@ -89,7 +88,6 @@ p {
 
 .section-tagline {
     text-align: left;
-    font-family: 'Open Sans', sans-serif;
     letter-spacing: 0.3em;
     font-weight: 700;
     padding-bottom: 20px;
